@@ -13,6 +13,7 @@ function calculate(){
         display.value = eval(display.value);
     }
     catch(error){
-        display.value = "Saifan Pagla";
+        display.value = "Error";
     }
+
 }
